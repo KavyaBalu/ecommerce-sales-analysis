@@ -1,0 +1,41 @@
+order_id,order_date,customer_id,city,category,product,quantity,unit_price_inr,discount_rate,sales_channel,gross_sales_inr,discount_amount_inr,net_sales_inr,check net sales
+ORD1001,03-01-2026,C001,Kochi,Electronics,Wireless Mouse,2,799,0,Online,1598,0,1598,1598
+ORD1002,04-01-2026,C002,Kollam,Home,Desk Lamp,1,1299,0.05,Online,1299,64.95,1234.05,1234.05
+ORD1003,06-01-2026,C003,Thiruvananthapuram,Fashion,Backpack,1,1499,0.1,Store,1499,149.9,1349.1,1349.1
+ORD1004,10-01-2026,C004,Kochi,Electronics,Keyboard,1,1899,0,Online,1899,0,1899,1899
+ORD1005,12-01-2026,C005,Alappuzha,Home,Water Bottle,3,399,0,Store,1197,0,1197,1197
+ORD1006,16-01-2026,C006,Kollam,Fashion,T-shirt,2,599,0.05,Online,1198,59.9,1138.1,1138.1
+ORD1007,20-01-2026,C001,Kochi,Electronics,USB-C Hub,1,2199,0.1,Online,2199,219.9,1979.1,1979.1
+ORD1008,25-01-2026,C007,Thrissur,Home,Office Chair,1,6499,0.05,Store,6499,324.95,6174.05,6174.05
+ORD1009,02-02-2026,C008,Kochi,Fashion,Sneakers,1,2999,0,Online,2999,0,2999,2999
+ORD1010,05-02-2026,C009,Kottayam,Electronics,Headphones,1,2499,0.1,Online,2499,249.9,2249.1,2249.1
+ORD1011,08-02-2026,C010,Alappuzha,Home,Desk Lamp,2,1299,0,Store,2598,0,2598,2598
+ORD1012,11-02-2026,C003,Thiruvananthapuram,Fashion,Backpack,2,1499,0.05,Online,2998,149.9,2848.1,2848.1
+ORD1013,14-02-2026,C011,Kochi,Electronics,Wireless Mouse,1,799,0,Store,799,0,799,799
+ORD1014,18-02-2026,C012,Kollam,Home,Water Bottle,4,399,0.1,Online,1596,159.6,1436.4,1436.4
+ORD1015,22-02-2026,C013,Thrissur,Fashion,T-shirt,3,599,0,Online,1797,0,1797,1797
+ORD1016,01-03-2026,C014,Kochi,Electronics,Keyboard,2,1899,0.05,Online,3798,189.9,3608.1,3608.1
+ORD1017,04-03-2026,C015,Kottayam,Home,Office Chair,1,6499,0,Store,6499,0,6499,6499
+ORD1018,07-03-2026,C002,Kollam,Fashion,Sneakers,1,2999,0.1,Online,2999,299.9,2699.1,2699.1
+ORD1019,11-03-2026,C016,Alappuzha,Electronics,Headphones,2,2499,0.05,Online,4998,249.9,4748.1,4748.1
+ORD1020,15-03-2026,C017,Kochi,Home,Desk Lamp,1,1299,0,Store,1299,0,1299,1299
+ORD1021,19-03-2026,C018,Thiruvananthapuram,Fashion,T-shirt,2,599,0.05,Online,1198,59.9,1138.1,1138.1
+ORD1022,23-03-2026,C005,Alappuzha,Home,Water Bottle,2,399,0,Online,798,0,798,798
+ORD1023,26-03-2026,C019,Kollam,Electronics,USB-C Hub,1,2199,0,Store,2199,0,2199,2199
+ORD1024,29-03-2026,C020,Thrissur,Fashion,Backpack,1,1499,0.1,Online,1499,149.9,1349.1,1349.1
+ORD1025,02-04-2026,C021,Kochi,Electronics,Headphones,1,2499,0,Online,2499,0,2499,2499
+ORD1026,06-04-2026,C022,Kottayam,Home,Office Chair,2,6499,0.1,Store,12998,1299.8,11698.2,11698.2
+ORD1027,10-04-2026,C023,Kollam,Fashion,Sneakers,2,2999,0.05,Online,5998,299.9,5698.1,5698.1
+ORD1028,13-04-2026,C024,Thiruvananthapuram,Electronics,Wireless Mouse,3,799,0,Online,2397,0,2397,2397
+ORD1029,18-04-2026,C025,Alappuzha,Home,Desk Lamp,1,1299,0.05,Store,1299,64.95,1234.05,1234.05
+ORD1030,22-04-2026,C026,Kochi,Fashion,T-shirt,4,599,0,Online,2396,0,2396,2396
+ORD1031,01-05-2026,C027,Thrissur,Electronics,Keyboard,1,1899,0.1,Online,1899,189.9,1709.1,1709.1
+ORD1032,05-05-2026,C028,Kollam,Home,Water Bottle,5,399,0,Store,1995,0,1995,1995
+ORD1033,09-05-2026,C029,Kochi,Fashion,Backpack,2,1499,0.05,Online,2998,149.9,2848.1,2848.1
+ORD1034,14-05-2026,C030,Kottayam,Electronics,USB-C Hub,2,2199,0,Online,4398,0,4398,4398
+ORD1035,20-05-2026,C031,Alappuzha,Home,Office Chair,1,6499,0.05,Store,6499,324.95,6174.05,6174.05
+ORD1036,02-06-2026,C032,Thiruvananthapuram,Fashion,Sneakers,1,2999,0,Online,2999,0,2999,2999
+ORD1037,06-06-2026,C001,Kochi,Electronics,Headphones,2,2499,0.05,Online,4998,249.9,4748.1,4748.1
+ORD1038,10-06-2026,C033,Kollam,Home,Desk Lamp,3,1299,0.1,Store,3897,389.7,3507.3,3507.3
+ORD1039,16-06-2026,C034,Thrissur,Fashion,T-shirt,2,599,0,Online,1198,0,1198,1198
+ORD1040,22-06-2026,C035,Kochi,Electronics,Keyboard,1,1899,0,Store,1899,0,1899,1899
